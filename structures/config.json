@@ -1,0 +1,23 @@
+{
+    "token": "MTA0NzI2NjMzOTI2MzM1NzA0OQ.GKXNSJ.TxRvzmn55rwLSzi-zLV4THjOKVWcREHq9-MbcA",
+    "developerGuildID": "1047107963900399688",
+    "anticrashWebhook": "https://discord.com/api/webhooks/1048761723282268341/81lGuVkJ9azdzBRu1vBItWar3lwwRtQv3SpfDXdM_dPJIrsNvjvsteTWidIZbVMo5h2h",
+
+    "mongoURL": "mongodb+srv://jay:nn84Z2scg5XBCdHLyPjYTHEznC26nHG5Hb8kN6mModaSoVQB9DUjFrNRRtUG@bot-dev.4jdqed9.mongodb.net/?retryWrites=true&w=majority",
+
+    "color": "#ffffff",
+
+    "suggColors": {
+        "pending": "#faa032",
+        "approved": "#32fa5d",
+        "denied": "#fa3232",
+        "implemented": "#fce803"
+    },
+
+    "suggChannels": {
+        "pending": "1048764076781748294",
+        "approved": "1048764085883379733",
+        "denied": "1048764099355488296",
+        "implemented": "1048769240515223664"
+    }
+}
